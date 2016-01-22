@@ -1,0 +1,47 @@
+﻿/*
+Author: Robert Kirk, gentleman and scholar
+Created: 1/14/16
+Updated: 1/14/16
+*/
+main
+{
+	text-align:center;
+	font-family: "Lucida Sans Typewriter","Lucida Console",monaco,"Bitstream Vera Sans Mono",monospace;
+}
+header
+{
+	font-family: "Lucida Sans Typewriter","Lucida Console",monaco,"Bitstream Vera Sans Mono",monospace;
+	text-align:center;
+}
+a
+{
+	text-decoration:none;
+	color:white;
+}
+a:hover
+{
+	text-decoration:underline;
+	cursor:pointer;
+}
+body
+{
+	background-color:black;
+	color:white;
+}
+figcaption
+{
+	display:block;
+	border:solid;
+	border-width:5px;
+	border-style:solid;
+	border-color:white;
+	background-color:red;
+	width:150px;
+	height:50px;
+	text-align:center;
+	font-size:1em;
+	box-shadow:2px 2px 2px 2px gray;
+	text-transform:capitalize;
+	margin:8px;
+	padding:4px;
+}
